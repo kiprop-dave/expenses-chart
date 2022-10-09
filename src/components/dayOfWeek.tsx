@@ -13,7 +13,7 @@ function DayOfWeek({day,amount,index} : Props) : JSX.Element{
     function setColour() : string {
         const dayToday = new Date().getDay();
         return(
-            dayToday === index ?
+            dayToday  === index  ?
             "hsl(186, 34%, 60%)":"hsl(10, 79%, 65%)"
         )
     }

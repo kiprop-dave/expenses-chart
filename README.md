@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-expenses-component-p8tLiucSk6)
 - Live Site URL: [here](https://expenses-chart-seven.vercel.app/)
 
 ## My process
